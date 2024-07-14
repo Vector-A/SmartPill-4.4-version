@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SmartPill-4.4 version</string>
+    <string name="l">Login</string>
+    <string name="p1">Pill Chamber</string>
+    <string name="p2">Pill Chamber 2</string>
+    <string name="pName">Pill Name 1</string>
+    <string name="pName2">Pill Name 2</string>
+    <string name="sName">Syrup Name 1</string>
+    <string name="sName2">Syrup Name 2</string>
+    <string name="s1">Syrup Chamber</string>
+    <string name="s2">Syrup Chamber 2</string>
+    <string name="set">Set Alarm</string>
+    <string name="alarm">Alarm Update</string>
+    <string name="cancel">Cancel Alarm</string>
+    <string name="s1V">Syrup 1 Volume</string>
+    <string name="s2V">Syrup 2 Volume</string>
+    <string name="M">Morning</string>
+    <string name="A">Afternoon</string>
+    <string name="E">Evening</string>
+    <string name="p1N">Numbers of Pill 1 </string>
+    <string name="p2N">Numbers of Pill 2</string>
+    <string name="ml">ml</string>>
+    <string name="no">no</string>>
+    <string name="update">Alarm Update</string>
+    <string name="noU">No update</string>
+    <string name="cA">Cancel Alarm</string>
+    <string name="DT">Dispenser Time:</string>
+    <string name="T">12:00</string>
+</resources>
